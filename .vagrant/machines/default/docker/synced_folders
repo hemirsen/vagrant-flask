@@ -1,1 +1,1 @@
-{"docker":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/hemirsen/flask","disabled":false,"__vagrantfile":true}}}
+{"docker":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/hemirsen/vagrant-flask","disabled":false,"__vagrantfile":true}}}
