@@ -28,4 +28,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: g181210038:${{ env.RELEASE_VERSION }}
+          tags: g181210038/flaskapp:${{ env.RELEASE_VERSION }}
